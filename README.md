@@ -1,6 +1,8 @@
 VSRepo
 ======
 
+Co-authoring test
+
 A simple package repository for VapourSynth. It is implemented in a way that
 keeps no state between invocations and can therefore be pointed at any
 pre-existing plugin and script directory.
