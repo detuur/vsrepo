@@ -1,7 +1,7 @@
 VSRepo
 ======
 
-Co-authoring test 3
+impersonation test
 
 A simple package repository for VapourSynth. It is implemented in a way that
 keeps no state between invocations and can therefore be pointed at any
